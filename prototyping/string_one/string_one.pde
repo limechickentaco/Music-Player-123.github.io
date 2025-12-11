@@ -19,4 +19,5 @@ float stringDivHeight = appHeight*1/10;
 String title = "Crunchy";
 /* Full String longer than Rectangle, "Crunchy tacos are better messy."
 -When String just fits the height aspect raiio us the largest
+
 NOT DONE
