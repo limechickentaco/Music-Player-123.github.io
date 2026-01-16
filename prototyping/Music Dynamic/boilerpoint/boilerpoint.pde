@@ -1,16 +1,20 @@
-My player is incomplete and not up to standard
- */
+
+*/
+  //
+  //Library - Minim
+  //
+  //Global Variables
+  //
+  void setup() {
+} //End setup
 //
-//Library - Minim
+void draw() {
+} //End draw
 //
-//Global Variables
+void mousePressed() {
+} //End mousePressed
 //
-void setup() {} //End setup
-//
-void draw() {} //End draw
-//
-void mousePressed() {} //End mousePressed
-//
-void keyPressed() {} //End keyPressed
+void keyPressed() {
+} //End keyPressed
 //
 //End MAIN Program
